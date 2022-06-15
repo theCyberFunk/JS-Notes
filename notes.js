@@ -78,4 +78,5 @@ let toSort = [1, 3, 5, 2, 6, 8];
 toSort.sort(function (a, b) {
   return a - b;
 });
+
 // === Array sort === //
